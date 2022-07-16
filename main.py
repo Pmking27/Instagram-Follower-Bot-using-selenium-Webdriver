@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import ElementClickInterceptedException
-import os
+
 #CHROME BROWSER DRIVER DOWNLOAD LINK:-https://chromedriver.chromium.org/
 
 CHROME_DRIVER_PATH = "ENTER HERE YOUR chromedriver.exe PATH OR OTHER BROWSER DRIVER PATH"
